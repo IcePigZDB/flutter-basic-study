@@ -1,3 +1,6 @@
+
+**本文件夹里面的项目主体是通过android studio中创建一个flutter项目，点击“Start a new Flutter project”，选择Flutter Application生成的，在跑后续的项目的时候直接将main.dart文件拷贝到lib/下，直接热启动。**
+
 # firstflutterapp
 
 A new Flutter application.
