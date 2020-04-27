@@ -17,7 +17,7 @@
         - images/3.0x/a.jpeg   
     ```
 * 本仓库是本系列入门视频的后半部分，前半部分资料由另一个人整理，我前半部分是fork的他的仓库，并且启发了本仓库的诞生，他的仓库地址是[dart_basic_stud](https://github.com/XPoet/dart-basic-study)。
-* p40-p45的源代码我没有找到，如果有的同学欢迎补充。
+* p40-p45的源代码我没有找到，如果仓库中有不小心没整理好的，欢迎同学补充。
 ## 目录：
 
 - [p15-Flutter01-InstallFlutter-win](https://github.com/IcePigZDB/flutter-basic-study/tree/master/p15-Flutter01-InstallFlutter-win)
